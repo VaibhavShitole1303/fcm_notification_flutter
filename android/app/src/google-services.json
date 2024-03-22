@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548932285324",
+    "project_id": "notification-demo-kotlin",
+    "storage_bucket": "notification-demo-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548932285324:android:3992ddb5709f473b005ca9",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notification_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMgkLe1ZYxx8vzviV_YpA5T1G80ubGyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548932285324:android:533dcf3ae51d5be8005ca9",
+        "android_client_info": {
+          "package_name": "com.example.notificationdemokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnMgkLe1ZYxx8vzviV_YpA5T1G80ubGyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
